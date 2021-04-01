@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=dourgey)
 
-- 🔭 I’m currently working on 58.com for algorithm engineer on NLP.
-- 🌱 I’m currently learning NLP and RL.
+- 🔭 I'm currently working as an NLP algorithm engineer on 58.com.
+- 🌱 I'm currently learning NLP and RL.
 - 😄 Happy to meet you!
